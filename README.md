@@ -1,1 +1,1 @@
-Interactive msuic player with options to users for adding favourite songs and creating playlists
+Interactive music player with options to users for adding favourite songs and creating playlists
